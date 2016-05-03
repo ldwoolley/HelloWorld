@@ -1,1 +1,5 @@
 There is so much to learn.  What happens when you create files and make changes locally before creating a Pull request?
+Looks like you can simply. commit the changes if you want.  
+When you try to pull before changes it asks for changes.  Interesting. So last time I should have made a pull request.
+Then I notice that I can do the pull request after and then add the comments.  Now I am confused.
+It looks like some can be committed at a time rather than all at once.
